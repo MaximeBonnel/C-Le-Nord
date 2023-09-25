@@ -1,0 +1,38 @@
+ajoute math.h hein
+ajoute stdio.h hein
+ajoute stdlib.h hein
+
+lance mi cha(){
+    je veux dire "ceci est un exmple de code en C-le-Nord !" hein
+    
+    var1 che un entier et y vaut 0 hein
+    var2 che un entier et y vaut 5 hein
+
+    je veux dire "les imbrications de bloucles fonctionnent, pour les boucles for, if et while, mais ça ne marche pas quand on les mélange (while dans un if par exemple)" hein
+    pour que var3 che un entier et y vaut 0 hein var3 est plus piti que var2 hein var3 ++{
+        pour que var4 che un entier et y vaut 0 hein var4 est plus piti que var2 hein var3 ++{
+        }
+    }
+    si var1 vaut var2{
+        affiche cha "var1 est égal à var2" hein
+        si var1 est pas pareil que var2{
+            affiche cha "var1 est différent de var2" hein
+        }
+    }
+    tant que var1 est pareil ou plus piti que var2{
+        var1 et y vaut var2 hein
+    }
+
+    je veux dire "les fonctions scanf, printf sont utilisables" hein
+    userVar che du texte hein
+    demande cha "Entrez du texte" userVar hein
+
+    je veux dire "les tableaux dynamiques sont implémentés" hein
+    stringTab che un tableau vide de texte hein
+    stringTab ajoute cha au tableau "ceci est un" hein
+    stringTab ajoute cha au tableau "exemple" hein
+
+    je veux dire "les calculs de base sont fonctionnels" hein
+    var5 che un reel et y vaut 5 * 10 hein
+    var5 et y vaut 18 - 3 hein
+}
